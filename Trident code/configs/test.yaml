@@ -1,0 +1,6 @@
+name: "testjob"
+workspace: "outputs"
+devices:
+  "41607ffd": "android"
+#  "12ef35d": "android"
+case_dir: "test_cases"
