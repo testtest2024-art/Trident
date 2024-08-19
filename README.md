@@ -95,6 +95,11 @@ Run the following command to install
 pip install -Ue .
 ```
 
+## Download datasets
+
+- Injection Dataset: https://drive.google.com/file/d/1aUn6T4sm4nD5M7PP28F98aJ9MECZa_Om/view?usp=sharing
+- Github Dataset: https://drive.google.com/file/d/1Gw-Lk8HRpGMuCQoNI5KGcx0XPtgYIygQ/view?usp=sharing
+
 ## Quick Start
 
 ## Initialize device
