@@ -97,8 +97,8 @@ pip install -Ue .
 
 ## Download datasets
 
-- Injection Dataset: https://drive.google.com/file/d/1aUn6T4sm4nD5M7PP28F98aJ9MECZa_Om/view?usp=sharing
-- Github Dataset: https://drive.google.com/file/d/1Gw-Lk8HRpGMuCQoNI5KGcx0XPtgYIygQ/view?usp=sharing
+- Injection Dataset: https://drive.google.com/drive/folders/1YeerTgkldEcIUNe2MKuBhEF6JEQKtYnc?usp=sharing
+- Github Dataset: https://drive.google.com/drive/folders/1-gIaQJou7EIOe8mb2mUzTqWh7Vk8OqKe?usp=sharing
 
 ## Quick Start
 
