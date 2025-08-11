@@ -189,3 +189,7 @@ Due to the limitation of paper length, we have provided the distribution of defe
 41 | Linphone | 50K+ | Commun | 11.2 | confirmed   | numerical calculate errors
 42 | Ubank Money App | 1M+ | finance | 11.43.1 | confirmed | missing user feedback
 43 | Woolworths | 1M+ | shopping | 24.14.0 | confirmed | data operation failures
+
+
+
+![structure](./feedback-example.png)
