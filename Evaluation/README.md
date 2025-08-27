@@ -60,7 +60,7 @@ You can download them on Google play through the information in the table.
 42 | Ubank Money App | 1M+ | finance | 11.43.1 | confirmed | missing user feedback
 43 | Woolworths | 1M+ | shopping | 24.14.0 | confirmed | data operation failures
 
-![structure](./Occlusion-or-overlap-bug.png)
+![structure](./Evaluation/RQ3/Occlusion-or-overlap-bug.png)
 ![structure](./Content-missing-bug.png)
 ![structure](./Data-operation-failures-bug.png)
 ![structure](./Missing-feedback-bug.png)
