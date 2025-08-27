@@ -190,6 +190,15 @@ Due to the limitation of paper length, we have provided the distribution of defe
 42 | Ubank Money App | 1M+ | finance | 11.43.1 | confirmed | missing user feedback
 43 | Woolworths | 1M+ | shopping | 24.14.0 | confirmed | data operation failures
 
-https://github.com/testtest2024-art/Trident/blob/main/Evaluation/RQ3/Configuration-errors-bug.png
+![structure](./Occlusion-or-overlap-bug.png)
+![structure](./Content-missing-bug.png)
+![structure](./Data-operation-failures-bug.png)
+![structure](./Missing-feedback-bug.png)
+![structure](./Media-control-bug.png)
+![structure](./Numerical-calculate-errors-bug.png)
+![structure](./Configuration-errors-bug.png)
+![structure](./Linking-issue-bug.png)
 
-![structure](./feedback-example.png)
+
+
+
