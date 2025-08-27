@@ -5,6 +5,7 @@ The apks confirmed or fixed from usefulness evaluation.
 
 You can download them on Google play through the information in the table.
 
+
 **ID** | **App name** | **Download** | **Category** | **Version** | **Status** | **Bug Category**
  :-: | :-: | :-: | :-: | :-: | :-: | :-: 
 1 | Waze | 500M+ | map | 4.103 | fixed | occlusion or overlap
@@ -21,7 +22,7 @@ You can download them on Google play through the information in the table.
 12 | Property | 5M+ | house | 5.267.0 | fixed | configuration errors
 13 | Plant Parent | 5M+ | lifestyle | 1.76 | fixed | occlusion or overlap
 14 | NOS | 5M+ | news | 202405 | fixed | media control
-15 | CommBank | 10M+ | finance | 5.11.0 | fixed | content missing
+15 | CommBank | 10M+ | finance | 5.11.0 | fixed | occlusion or overlap
 16 | AIMP | 10M+ | music | 4.1 | fixed | media control
 17 | Wise | 10M+ | finance | 8.71 | fixed | data operation failures
 18 | Smart Life | 10M+ | lifestyle | 5.15.1 | fixed | content missing
@@ -34,7 +35,7 @@ You can download them on Google play through the information in the table.
 25 | Virgin Australia | 1M+ | travel | 2.33.0 | fixed | data operation failures
 26 | Opal Travel | 1M+ | travel | 9.8.2 | fixed | occlusion or overlap
 27 | NAB  Banking | 1M+ | finance | 9.153.0 | fixed | numerical calculate errors
-28 | Flybuys | 1M+ | shopping | 24.7.1 | fixed | occlusion or overlap
+28 | NoxSecurity | 1M+ | tools | 3.1.1 | fixed | content missing
 29 | Everyday Rewards | 1M+ | shopping | 24.11.0 | fixed | data operation failures
 30 | Woolworths | 1M+ | shopping | 24.14.0 | fixed | missing user feedback
 31 | Home Assistant | 1M+ | house | 2024.5 | fixed | numerical calculate errors
