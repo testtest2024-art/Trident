@@ -61,13 +61,13 @@ You can download them on Google play through the information in the table.
 43 | Woolworths | 1M+ | shopping | 24.14.0 | confirmed | data operation failures
 
 ![structure](./RQ3/Occlusion-or-overlap-bug.png)
-![structure](./Content-missing-bug.png)
-![structure](./Data-operation-failures-bug.png)
-![structure](./Missing-feedback-bug.png)
-![structure](./Media-control-bug.png)
-![structure](./Numerical-calculate-errors-bug.png)
-![structure](./Configuration-errors-bug.png)
-![structure](./Linking-issue-bug.png)
+![structure](./RQ3/Content-missing-bug.png)
+![structure](./RQ3/Data-operation-failures-bug.png)
+![structure](./RQ3/Missing-feedback-bug.png)
+![structure](./RQ3/Media-control-bug.png)
+![structure](./RQ3/Numerical-calculate-errors-bug.png)
+![structure](./RQ3/Configuration-errors-bug.png)
+![structure](./RQ3/Linking-issue-bug.png)
 
 
 
